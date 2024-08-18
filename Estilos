@@ -1,19 +1,1 @@
-body {
-    background-color: #f0f4f8;
-    color: #34495e;
-    font-family: 'Arial', sans-serif;
-}
 
-h1 {
-    color: #333333; /* Cambia el color de los encabezados */
-}
-
-p {
-    color: #666666; /* Cambia el color del texto de los párrafos */
-}
-
-
-a:hover {
-    color: #32cd32; /* Color cuando el cursor está sobre el enlace */
-    
-}
