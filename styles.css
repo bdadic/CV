@@ -1,5 +1,37 @@
+
+/* Cambiar el color de fondo de la página */
 body {
-    background-color: #add8e6; /* Código hexadecimal para un color celeste */
-    color: #333; /* Color del texto (puedes cambiarlo si quieres) */
-    font-family: 'Arial', sans-serif; /* Fuente del texto */
+    background-color: #add8e6; /* Celeste */
+    color: #333; /* Color del texto */
+    font-family: 'Arial', sans-serif;
+}
+
+/* Cambiar el color de los encabezados */
+h1, h2, h3, h4, h5, h6 {
+    color: #2c3e50; /* Azul oscuro */
+}
+
+/* Cambiar el color de los enlaces */
+a {
+    color: #e74c3c; /* Rojo vibrante */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #c0392b; /* Rojo más oscuro al pasar el cursor */
+    text-decoration: underline;
+}
+
+/* Cambiar el color de los botones */
+button {
+    background-color: #3498db; /* Azul */
+    color: #fff; /* Texto blanco */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #2980b9; /* Azul más oscuro al pasar el cursor */
 }
