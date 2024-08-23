@@ -25,3 +25,13 @@ a:hover {
 button:hover {
     background-color: #2980b9; /* Azul más oscuro al pasar el cursor */
 }
+/* Cambiar el color de los enlaces a azul */
+a {
+    color: #0000FF; /* Azul */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #00008B; /* Azul más oscuro al pasar el cursor */
+    text-decoration: underline; /* Subraya el enlace al pasar el cursor */
+}
