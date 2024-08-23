@@ -22,16 +22,6 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Cambiar el color de los botones */
-button {
-    background-color: #3498db; /* Azul */
-    color: #fff; /* Texto blanco */
-    border: none;
-    padding: 10px 20px;
-    border-radius: 5px;
-    cursor: pointer;
-}
-
 button:hover {
     background-color: #2980b9; /* Azul más oscuro al pasar el cursor */
 }
