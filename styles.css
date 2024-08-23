@@ -11,16 +11,7 @@ h1, h2, h3, h4, h5, h6 {
     color: #2c3e50; /* Azul oscuro */
 }
 
-/* Cambiar el color de los enlaces */
-a {
-    color: #e74c3c; /* Rojo vibrante */
-    text-decoration: none;
-}
 
-a:hover {
-    color: #c0392b; /* Rojo más oscuro al pasar el cursor */
-    text-decoration: underline;
-}
 
 button:hover {
     background-color: #2980b9; /* Azul más oscuro al pasar el cursor */
