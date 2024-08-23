@@ -4,7 +4,6 @@ body {
     background-color: #add8e6; /* Celeste */
     color: #333; /* Color del texto */
     font-family: 'Arial', sans-serif;
-    cursor: url('ruta/a/tu-cursor-celeste.png'), auto; /* Imagen de cursor celeste */
 }
 
 /* Cambiar el color de los encabezados */
