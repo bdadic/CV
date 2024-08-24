@@ -1,26 +1,43 @@
-
-/* Cambiar el color de fondo de la página */
 body {
-    background-color: #add8e6; /* Celeste */
-    color: #333; /* Color del texto */
+    background-color: #f4f4f4; /* Un fondo más claro */
+    color: #333; /* Texto más oscuro para mejor contraste */
     font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    padding: 20px;
 }
 
-/* Cambiar el color de los encabezados */
-h1, h2, h3, h4, h5, h6 {
+/* Mejorar encabezados */
+h1, h2, h3, h4 {
     color: #2c3e50; /* Azul oscuro */
+    margin-bottom: 20px;
 }
 
-button:hover {
-    background-color: #2980b9; /* Azul más oscuro al pasar el cursor */
+h1 {
+    font-size: 2.5em;
 }
-/* Cambiar el color de los enlaces a azul */
+
+h2 {
+    font-size: 2em;
+}
+
+/* Estilo para enlaces */
 a {
-    color: #0000FF; /* Azul */
+    color: #007BFF; /* Azul más vibrante */
     text-decoration: none;
 }
 
 a:hover {
-    color: #00008B; /* Azul más oscuro al pasar el cursor */
-    text-decoration: underline; /* Subraya el enlace al pasar el cursor */
+    color: #0056b3; /* Azul más oscuro al pasar el cursor */
+    text-decoration: underline;
+}
+
+/* Estilo para secciones */
+section {
+    margin-bottom: 40px;
+}
+
+/* Mejorar espaciado y padding */
+p {
+    margin-bottom: 15px;
+    padding: 5px 0;
 }
