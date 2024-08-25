@@ -1,9 +1,7 @@
 body {
-    background-color: #add8e6; /* Un fondo más claro */
-    color: #333; /* Texto más oscuro para mejor contraste */
-    font-family: 'Arial', sans-serif;
-    line-height: 1.6;
-    padding: 20px;
+    background-color: #add8e6; /* Código hexadecimal para un color celeste */
+    color: #333; /* Color del texto (puedes cambiarlo si quieres) */
+    font-family: 'Arial', sans-serif; /* Fuente del texto */
 }
 
 /* Mejorar encabezados */
