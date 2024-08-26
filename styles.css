@@ -9,7 +9,17 @@ body {
     color: #2c3e50; /* Azul oscuro */
     margin-bottom: 20px;
 }
-
+    h1 {
+            font-size: 48px;
+            text-align: center;
+            color: #0277bd;
+            margin-bottom: 10px;
+        }
+    h2 {
+            font-size: 32px;
+            color: #01579b;
+            margin-bottom: 20px;
+        }
 
 /* Estilo para enlaces */
 a {
